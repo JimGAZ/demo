@@ -1,2 +1,3 @@
 This is a second file. And some stuff.
 New line.
+Another new line.
